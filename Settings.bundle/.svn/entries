@@ -1,0 +1,40 @@
+8
+
+dir
+6
+svn://10.0.1.250/ZapperPro/Settings.bundle
+svn://10.0.1.250/ZapperPro
+
+
+
+2008-08-03T17:54:06.182007Z
+6
+thomas
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c6780c12-90a1-4450-affc-5d99c0932e5b
+
+Root.plist
+file
+8
+
+
+
+2008-08-30T14:19:03.000000Z
+9a31182d8b8cb3da3d3d7606af2c6688
+2008-08-30T15:34:45.413698Z
+8
+thomas
+

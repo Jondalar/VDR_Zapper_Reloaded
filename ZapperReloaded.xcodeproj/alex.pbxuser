@@ -1,14 +1,44 @@
 // !$*UTF8*$!
 {
+	1D3623240D0F684500981E51 /* ZapperReloadedAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 525}}";
+			sepNavSelRange = "{521, 0}";
+			sepNavVisRange = "{0, 528}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ZapperReloadedAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1170}}";
+			sepNavSelRange = "{2386, 0}";
+			sepNavVisRange = "{0, 1342}";
+		};
+	};
 	1D6058900D05DD3D006BFB54 /* ZapperReloaded */ = {
 		activeExec = 0;
 		executables = (
 			FABD5B3D12D064A000DDEB21 /* ZapperReloaded */,
 		);
 	};
+	28D7ACF60DDB3853001CB0EB /* ZapperReloadedViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 871}}";
+			sepNavSelRange = "{236, 0}";
+			sepNavVisRange = "{0, 1203}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ZapperReloadedViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 4602}}";
+			sepNavSelRange = "{4695, 0}";
+			sepNavVisRange = "{6264, 561}";
+		};
+	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
-		activeBuildConfigurationName = Debug;
+		activeArchitecturePreference = armv7;
+		activeBuildConfigurationName = "Debug AdHoc";
 		activeExecutable = FABD5B3D12D064A000DDEB21 /* ZapperReloaded */;
+		activeSDKPreference = iphoneos4.2;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* ZapperReloaded */;
 		addToTargets = (
 			1D6058900D05DD3D006BFB54 /* ZapperReloaded */,
@@ -23,7 +53,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					675,
+					849,
 					20,
 					48,
 					43,
@@ -40,11 +70,180 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 315656629;
-			PBXWorkspaceStateSaveDate = 315656629;
+			PBXPerProjectTemplateStateSaveDate = 316798834;
+			PBXWorkspaceStateSaveDate = 316798834;
+		};
+		perUserProjectItems = {
+			FA0890F612D78BDB00EF3FCB /* PBXBookmark */ = FA0890F612D78BDB00EF3FCB /* PBXBookmark */;
+			FA08917512D7A1B300EF3FCB /* PBXTextBookmark */ = FA08917512D7A1B300EF3FCB /* PBXTextBookmark */;
+			FA0891CF12D7A8E800EF3FCB /* PBXTextBookmark */ = FA0891CF12D7A8E800EF3FCB /* PBXTextBookmark */;
+			FA08928512D85DED00EF3FCB /* PlistBookmark */ = FA08928512D85DED00EF3FCB /* PlistBookmark */;
+			FA08928912D85DED00EF3FCB /* PBXTextBookmark */ = FA08928912D85DED00EF3FCB /* PBXTextBookmark */;
+			FA0892C312D8624900EF3FCB /* PBXBookmark */ = FA0892C312D8624900EF3FCB /* PBXBookmark */;
+			FA0892D112D8631F00EF3FCB /* PBXTextBookmark */ = FA0892D112D8631F00EF3FCB /* PBXTextBookmark */;
+			FA08930412D869C700EF3FCB /* PBXTextBookmark */ = FA08930412D869C700EF3FCB /* PBXTextBookmark */;
+			FA08933912D8736300EF3FCB /* PBXTextBookmark */ = FA08933912D8736300EF3FCB /* PBXTextBookmark */;
+			FA0893C212D8767900EF3FCB /* PBXTextBookmark */ = FA0893C212D8767900EF3FCB /* PBXTextBookmark */;
+			FA0893C312D8767900EF3FCB /* PBXTextBookmark */ = FA0893C312D8767900EF3FCB /* PBXTextBookmark */;
+			FA0893C412D8767900EF3FCB /* PlistBookmark */ = FA0893C412D8767900EF3FCB /* PlistBookmark */;
+			FAEE6D9F12E1F7830079EB4C /* PlistBookmark */ = FAEE6D9F12E1F7830079EB4C /* PlistBookmark */;
+			FAEE6DA012E1F7830079EB4C /* PBXBookmark */ = FAEE6DA012E1F7830079EB4C /* PBXBookmark */;
 		};
 		sourceControlManager = FABD5B5112D064AF00DDEB21 /* Source Control */;
 		userBuildSettings = {
+		};
+	};
+	8D1107310486CEB800E47090 /* ZapperReloaded-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{61, 69}, {1531, 912}}";
+		};
+	};
+	FA0890F612D78BDB00EF3FCB /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FA0890E412D7844700EF3FCB /* Zapper_metal_UI.png */;
+	};
+	FA08916B12D7A0D500EF3FCB /* wol.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {821, 434}}";
+			sepNavSelRange = "{345, 11}";
+			sepNavVisRange = "{0, 393}";
+		};
+	};
+	FA08916C12D7A0D500EF3FCB /* wol.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 962}}";
+			sepNavSelRange = "{238, 0}";
+			sepNavVisRange = "{0, 814}";
+			sepNavWindowFrame = "{{67, 62}, {1531, 912}}";
+		};
+	};
+	FA08917512D7A1B300EF3FCB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FA08916B12D7A0D500EF3FCB /* wol.h */;
+		name = "wol.h: 19";
+		rLen = 11;
+		rLoc = 345;
+		rType = 0;
+		vrLen = 393;
+		vrLoc = 0;
+	};
+	FA08918B12D7A42F00EF3FCB /* Root.plist */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist.xml;
+		name = Root.plist;
+		path = /Users/alex/Development/VDR/ZapperReloaded/Settings.bundle/Root.plist;
+		sourceTree = "<absolute>";
+	};
+	FA0891CF12D7A8E800EF3FCB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FA08916C12D7A0D500EF3FCB /* wol.c */;
+		name = "wol.c: 16";
+		rLen = 0;
+		rLoc = 238;
+		rType = 0;
+		vrLen = 814;
+		vrLoc = 0;
+	};
+	FA08928512D85DED00EF3FCB /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = FA08918B12D7A42F00EF3FCB /* Root.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/alex/Development/VDR/ZapperReloaded/Settings.bundle/Root.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	FA08928912D85DED00EF3FCB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ZapperReloadedAppDelegate.m */;
+		name = "ZapperReloadedAppDelegate.m: 71";
+		rLen = 0;
+		rLoc = 2386;
+		rType = 0;
+		vrLen = 1342;
+		vrLoc = 0;
+	};
+	FA0892C312D8624900EF3FCB /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FA08926712D7BAE100EF3FCB /* Default.png */;
+	};
+	FA0892D112D8631F00EF3FCB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FA798CC912D11CA2008E1B22 /* VdrHelperClass.h */;
+		name = "VdrHelperClass.h: 39";
+		rLen = 0;
+		rLoc = 775;
+		rType = 0;
+		vrLen = 788;
+		vrLoc = 142;
+	};
+	FA08930412D869C700EF3FCB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ZapperReloadedViewController.m */;
+		name = "ZapperReloadedViewController.m: 198";
+		rLen = 0;
+		rLoc = 4695;
+		rType = 0;
+		vrLen = 561;
+		vrLoc = 6264;
+	};
+	FA08933912D8736300EF3FCB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FA798CCA12D11CA2008E1B22 /* VdrHelperClass.m */;
+		name = "VdrHelperClass.m: 200";
+		rLen = 0;
+		rLoc = 4375;
+		rType = 0;
+		vrLen = 621;
+		vrLoc = 3977;
+	};
+	FA0893C212D8767900EF3FCB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ZapperReloadedAppDelegate.h */;
+		name = "ZapperReloadedAppDelegate.h: 21";
+		rLen = 0;
+		rLoc = 521;
+		rType = 0;
+		vrLen = 528;
+		vrLoc = 0;
+	};
+	FA0893C312D8767900EF3FCB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ZapperReloadedViewController.h */;
+		name = "ZapperReloadedViewController.h: 8";
+		rLen = 0;
+		rLoc = 236;
+		rType = 0;
+		vrLen = 1203;
+		vrLoc = 0;
+	};
+	FA0893C412D8767900EF3FCB /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ZapperReloaded-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/alex/Development/VDR/ZapperReloaded/ZapperReloaded-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	FA798CC912D11CA2008E1B22 /* VdrHelperClass.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {743, 715}}";
+			sepNavSelRange = "{361, 0}";
+			sepNavVisRange = "{361, 47}";
+			sepNavWindowFrame = "{{92, 49}, {1531, 912}}";
+		};
+	};
+	FA798CCA12D11CA2008E1B22 /* VdrHelperClass.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 2964}}";
+			sepNavSelRange = "{4375, 0}";
+			sepNavVisRange = "{4373, 175}";
+			sepNavWindowFrame = "{{114, 58}, {1280, 724}}";
 		};
 	};
 	FABD5B3D12D064A000DDEB21 /* ZapperReloaded */ = {
@@ -63,6 +262,7 @@
 		dataTipSortType = 0;
 		debuggerPlugin = GDBDebugging;
 		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
 		enableDebugStr = 1;
 		environmentEntries = (
 		);
@@ -70,6 +270,8 @@
 		executableUserSymbolLevel = 0;
 		libgmallocEnabled = 0;
 		name = ZapperReloaded;
+		savedGlobals = {
+		};
 		showTypeColumn = 0;
 		sourceDirectories = (
 		);
@@ -87,5 +289,20 @@
 	FABD5B5212D064AF00DDEB21 /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
+	};
+	FAEE6D9F12E1F7830079EB4C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = FA08936612D8755B00EF3FCB /* Entitlements.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/alex/Development/VDR/ZapperReloaded/Entitlements.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	FAEE6DA012E1F7830079EB4C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FA08926712D7BAE100EF3FCB /* Default.png */;
 	};
 }

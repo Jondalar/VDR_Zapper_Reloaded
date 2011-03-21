@@ -13,6 +13,7 @@
 @interface ZapperReloadedAppDelegate : NSObject <UIApplicationDelegate> {
     UIWindow *window;
     ZapperReloadedViewController *viewController;
+
 }
 
 @property (nonatomic, retain) IBOutlet UIWindow *window;

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>DefaultValue</key>
+			<string>video.local</string>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+			<key>Title</key>
+			<string>VDR DNS name</string>
+			<key>Key</key>
+			<string>hostname</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<string>6419</string>
+			<key>KeyboardType</key>
+			<string>NumberPad</string>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+			<key>Title</key>
+			<string>VDR SVDRP Port</string>
+			<key>Key</key>
+			<string>Port</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<true/>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Title</key>
+			<string>StayAlive</string>
+			<key>Key</key>
+			<string>VDRStayAlive</string>
+			<key>TrueValue</key>
+			<true/>
+			<key>FalseValue</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<string>01:02:03:04:05:06</string>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+			<key>Title</key>
+			<string>WOL-MAC</string>
+			<key>Key</key>
+			<string>wolMAC</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<string>192.168.0.255</string>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+			<key>Title</key>
+			<string>WOL-Broadcast</string>
+			<key>Key</key>
+			<string>wolBcast</string>
+		</dict>
+	</array>
+	<key>Title</key>
+	<string>ZapperReloaded Settings</string>
+</dict>
+</plist>
